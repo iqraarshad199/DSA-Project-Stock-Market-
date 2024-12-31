@@ -1,0 +1,6 @@
+Apple
+202.406
+Microsoft
+143.409
+Amazon
+308.981
